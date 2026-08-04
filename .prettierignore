@@ -5,6 +5,8 @@ dist/
 build/
 .astro/
 
+next-env.d.ts
+
 README.md
 LICENSE
 
