@@ -3,7 +3,7 @@ pnpm-lock.yaml
 
 dist/
 build/
-.astro/
+.next/
 
 next-env.d.ts
 
