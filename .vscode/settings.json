@@ -45,5 +45,6 @@
     "**/.vercel": true,
     "**/out": true,
     "**/supabase/.temp": true
-  }
+  },
+  "css.lint.unknownAtRules": "ignore"
 }
